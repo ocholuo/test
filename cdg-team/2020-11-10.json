@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "60bb9b4e-6128-4842-a701-0f6ede6f41c0",
+        "type": "message",
+        "text": "<!here> From the desk of the CEO.....CDG will be closed for all team members on Wednesday, 11 November in honor of our nation's veterans as well as our allies who have come and gone, especially those who gave the ultimate sacrifice to their country both home and abroad dating back to our country's humble beginnings. Veterans Day was designated on 11 November due to the armistice signed during World War I which took place on the 11th hour of the 11th day of the 11th month. Please raise a glass of your favorite beverage in their honor as well as keeping them in your thoughts on Wednesday, 11 November as you enjoy your day off from CDG.",
+        "user": "UC1MBG9SL",
+        "ts": "1605036086.085200",
+        "team": "T309PAMP0",
+        "user_team": "T309PAMP0",
+        "source_team": "T309PAMP0",
+        "user_profile": {
+            "avatar_hash": "890703330c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/820114216244_890703330c08f0ba8e54_72.jpg",
+            "first_name": "Kevin",
+            "real_name": "Kevin Keating",
+            "display_name": "Kevin Keating",
+            "team": "T309PAMP0",
+            "name": "kevin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9zO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " From the desk of the CEO.....CDG will be closed for all team members on Wednesday, 11 November in honor of our nation's veterans as well as our allies who have come and gone, especially those who gave the ultimate sacrifice to their country both home and abroad dating back to our country's humble beginnings. Veterans Day was designated on 11 November due to the armistice signed during World War I which took place on the 11th hour of the 11th day of the 11th month. Please raise a glass of your favorite beverage in their honor as well as keeping them in your thoughts on Wednesday, 11 November as you enjoy your day off from CDG."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "us",
+                "users": [
+                    "U30A0FZSB"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

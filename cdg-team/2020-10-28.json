@@ -1,0 +1,124 @@
+[
+    {
+        "type": "message",
+        "text": "Amazon Discloses Security Incident Involving Customers' Email Addresses\n<https:\/\/www.tripwire.com\/state-of-security\/security-data-protection\/amazon-discloses-security-incident-involving-customers-email-addresses\/>",
+        "user": "U30A0FZSB",
+        "ts": "1603885946.073900",
+        "team": "T309PAMP0",
+        "user_team": "T309PAMP0",
+        "source_team": "T309PAMP0",
+        "user_profile": {
+            "avatar_hash": "310f1dd64cb4",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-19\/840949189989_310f1dd64cb475e384d2_72.png",
+            "first_name": "Lou",
+            "real_name": "Lou Rabon",
+            "display_name": "Lou",
+            "team": "T309PAMP0",
+            "name": "lou",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "The State of Security",
+                "title": "Amazon Discloses Security Incident Involving Customers' Email Addresses",
+                "title_link": "https:\/\/www.tripwire.com\/state-of-security\/security-data-protection\/amazon-discloses-security-incident-involving-customers-email-addresses\/",
+                "text": "Amazon informed some of its customers about a security incident that involved the unauthorized disclosure of their email addresses.",
+                "fallback": "The State of Security: Amazon Discloses Security Incident Involving Customers' Email Addresses",
+                "image_url": "https:\/\/www.tripwire.com\/state-of-security\/wp-content\/uploads\/sites\/3\/1127984206901289.AKuXdP1apjcQzUPVsXeO_height640.png",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1603798021,
+                "from_url": "https:\/\/www.tripwire.com\/state-of-security\/security-data-protection\/amazon-discloses-security-incident-involving-customers-email-addresses\/",
+                "image_bytes": 43415,
+                "service_icon": "https:\/\/3b6xlt3iddqmuq5vy2w0s5d3-wpengine.netdna-ssl.com\/state-of-security\/wp-content\/themes\/tw-base\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.tripwire.com\/state-of-security\/security-data-protection\/amazon-discloses-security-incident-involving-customers-email-addresses\/"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "message_changed",
+        "hidden": true,
+        "message": {
+            "type": "message",
+            "text": "Amazon Discloses Security Incident Involving Customers' Email Addresses\n<https:\/\/www.tripwire.com\/state-of-security\/security-data-protection\/amazon-discloses-security-incident-involving-customers-email-addresses\/>",
+            "user": "U30A0FZSB",
+            "team": "T309PAMP0",
+            "attachments": [
+                {
+                    "service_name": "The State of Security",
+                    "title": "Amazon Discloses Security Incident Involving Customers' Email Addresses",
+                    "title_link": "https:\/\/www.tripwire.com\/state-of-security\/security-data-protection\/amazon-discloses-security-incident-involving-customers-email-addresses\/",
+                    "text": "Amazon informed some of its customers about a security incident that involved the unauthorized disclosure of their email addresses.",
+                    "fallback": "The State of Security: Amazon Discloses Security Incident Involving Customers' Email Addresses",
+                    "image_url": "https:\/\/www.tripwire.com\/state-of-security\/wp-content\/uploads\/sites\/3\/1127984206901289.AKuXdP1apjcQzUPVsXeO_height640.png",
+                    "image_width": 444,
+                    "image_height": 250,
+                    "ts": 1603798021,
+                    "from_url": "https:\/\/www.tripwire.com\/state-of-security\/security-data-protection\/amazon-discloses-security-incident-involving-customers-email-addresses\/",
+                    "image_bytes": 43415,
+                    "service_icon": "https:\/\/3b6xlt3iddqmuq5vy2w0s5d3-wpengine.netdna-ssl.com\/state-of-security\/wp-content\/themes\/tw-base\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/www.tripwire.com\/state-of-security\/security-data-protection\/amazon-discloses-security-incident-involving-customers-email-addresses\/"
+                }
+            ],
+            "ts": "1603885946.073900"
+        },
+        "channel": "C30A0G1MM",
+        "ts": "1603885946.074000"
+    },
+    {
+        "client_msg_id": "469bceaa-c637-48e2-a505-d2861cc11175",
+        "type": "message",
+        "text": "<!here> Town Hall scheduled for tomorrow will be pushed to either Wednesday or Thursday of next week, I will send out update invites when I make a decision.",
+        "user": "UC1MBG9SL",
+        "ts": "1603929475.074900",
+        "team": "T309PAMP0",
+        "user_team": "T309PAMP0",
+        "source_team": "T309PAMP0",
+        "user_profile": {
+            "avatar_hash": "890703330c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/820114216244_890703330c08f0ba8e54_72.jpg",
+            "first_name": "Kevin",
+            "real_name": "Kevin Keating",
+            "display_name": "Kevin Keating",
+            "team": "T309PAMP0",
+            "name": "kevin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TGM9x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Town Hall scheduled for tomorrow will be pushed to either Wednesday or Thursday of next week, I will send out update invites when I make a decision."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UM2RCEMDM",
+                    "UE8FSJXGC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

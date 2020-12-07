@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "c1ffb72a-b9be-4ea4-9a0d-8663e6e8b8e7",
+        "type": "message",
+        "text": "<!here> Sadly, due to the unfortunate circumstance of making bags of money, we are going to be too busy tonight to have hacky-hour. We will restart next week.",
+        "user": "U013U9ZMQ04",
+        "ts": "1603490426.073500",
+        "team": "T309PAMP0",
+        "user_team": "T309PAMP0",
+        "source_team": "T309PAMP0",
+        "user_profile": {
+            "avatar_hash": "ed00701c2a65",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-05-15\/1127873410530_ed00701c2a65342e165e_72.jpg",
+            "first_name": "Remington",
+            "real_name": "Remington Winters",
+            "display_name": "",
+            "team": "T309PAMP0",
+            "name": "remington",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Ok",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Sadly, due to the unfortunate circumstance of making bags of money, we are going to be too busy tonight to have hacky-hour. We will restart next week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "U0180D55C9F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ghost",
+                "users": [
+                    "UC1MBG9SL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

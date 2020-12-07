@@ -1,0 +1,306 @@
+[
+    {
+        "bot_id": "B01",
+        "type": "message",
+        "text": "Reminder: Please keep <@UC1MBG9SL|kevin> Happy :tada: Get your Hours in by EOD.",
+        "user": "USLACKBOT",
+        "ts": "1604062845.075200",
+        "team": "T309PAMP0"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F01DQ1TF37U",
+                "created": 1604071774,
+                "timestamp": 1604071774,
+                "name": "Backyard.jpg",
+                "title": "Backyard.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01CHVBQS81",
+                "editable": false,
+                "size": 677154,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T309PAMP0-F01DQ1TF37U\/backyard.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T309PAMP0-F01DQ1TF37U\/download\/backyard.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF37U-4e90fec9b4\/backyard_64.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF37U-4e90fec9b4\/backyard_80.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF37U-4e90fec9b4\/backyard_360.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF37U-4e90fec9b4\/backyard_480.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF37U-4e90fec9b4\/backyard_160.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF37U-4e90fec9b4\/backyard_720.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF37U-4e90fec9b4\/backyard_800.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF37U-4e90fec9b4\/backyard_960.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF37U-4e90fec9b4\/backyard_1024.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 1600,
+                "original_h": 1200,
+                "thumb_tiny": "AwAkADCykuQMkZNTZrMVzxUy3DACi4WLuaD0qkbhu1DTsVFFwsWT94Z9ajeQBc579KrNKx701m4xQBGWGTh1+lLlf760uxfSjy19KQw3J\/z0H5UuV\/56LTfLUdqXYoHQUCAlf7601mAGcg0u1fSoHBz1pgWB1ozQOtFIYmeaM0d6KAEzzUcgqTvUb9KYj\/\/Z",
+                "permalink": "https:\/\/cyberdefensegroup.slack.com\/files\/U01CHVBQS81\/F01DQ1TF37U\/backyard.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T309PAMP0-F01DQ1TF37U-3ad837975c",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F01DQ1TF44A",
+                "created": 1604071774,
+                "timestamp": 1604071774,
+                "name": "jeep in snow.jpg",
+                "title": "jeep in snow.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U01CHVBQS81",
+                "editable": false,
+                "size": 704939,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T309PAMP0-F01DQ1TF44A\/jeep_in_snow.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T309PAMP0-F01DQ1TF44A\/download\/jeep_in_snow.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF44A-47a3d6d384\/jeep_in_snow_64.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF44A-47a3d6d384\/jeep_in_snow_80.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF44A-47a3d6d384\/jeep_in_snow_360.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF44A-47a3d6d384\/jeep_in_snow_480.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF44A-47a3d6d384\/jeep_in_snow_160.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF44A-47a3d6d384\/jeep_in_snow_720.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF44A-47a3d6d384\/jeep_in_snow_800.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF44A-47a3d6d384\/jeep_in_snow_960.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T309PAMP0-F01DQ1TF44A-47a3d6d384\/jeep_in_snow_1024.jpg?t=xoxe-102329361782-1491985597477-1488342963750-522aed6956977fee2f86a2ad60b8c137",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 1200,
+                "original_h": 1600,
+                "thumb_tiny": "AwAwACR3nEYwcAVYMoaIkenNUFOSc1PGRsOeCeOvWlcBWkJINRu2FyDSN9w+1JtHl5PegZASSaOalUfKOKXA9D+VAhRtY\/I2f94U\/b8oywwD6UyRhHswOCeWx1prZki49c07ASv5ZHyde4PFMbkAdqjjTGWY9KjLbnznvSHfQsLwoFLTFO4ZpcGgRVeVnOWOatQHMA461SHWrcf3VAPbmmA5h8m0YxUDJ7VO3FMJoGNVmQYFL5r0hopAf\/\/Z",
+                "permalink": "https:\/\/cyberdefensegroup.slack.com\/files\/U01CHVBQS81\/F01DQ1TF44A\/jeep_in_snow.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T309PAMP0-F01DQ1TF44A-686473d1cf",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U01CHVBQS81",
+        "ts": "1604071777.075300",
+        "client_msg_id": "7b2a3f5f-edc6-48b5-8aa5-e78ce71695e0"
+    },
+    {
+        "client_msg_id": "c4a6d88c-ce03-4270-999c-cdd53e748e6a",
+        "type": "message",
+        "text": "This is when I’m jealous of my West Coast Hommies.. winter is coming!!",
+        "user": "U01CHVBQS81",
+        "ts": "1604071790.075900",
+        "team": "T309PAMP0",
+        "user_team": "T309PAMP0",
+        "source_team": "T309PAMP0",
+        "user_profile": {
+            "avatar_hash": "71faf76950ae",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-10-07\/1426255750593_71faf76950ae66ef37f7_72.jpg",
+            "first_name": "Kacey",
+            "real_name": "Kacey Fern",
+            "display_name": "",
+            "team": "T309PAMP0",
+            "name": "kacey",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "72XBJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This is when I’m jealous of my West Coast Hommies.. winter is coming!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sneezing_face",
+                "users": [
+                    "U01B9P04UUS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "snowflake",
+                "users": [
+                    "U01B9P04UUS"
+                ],
+                "count": 1
+            },
+            {
+                "name": "facepunch",
+                "users": [
+                    "UC1MBG9SL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hushed",
+                "users": [
+                    "U30A0FZSB"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7c3956c-fc65-4eed-a392-47d411bfdaeb",
+        "type": "message",
+        "text": "Looks cool tho",
+        "user": "U0180D55C9F",
+        "ts": "1604071849.076100",
+        "team": "T309PAMP0",
+        "user_team": "T309PAMP0",
+        "source_team": "T309PAMP0",
+        "user_profile": {
+            "avatar_hash": "88990c06f79b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2020-09-18\/1373864266403_88990c06f79b5e449952_72.jpg",
+            "first_name": "Aaron",
+            "real_name": "Aaron Hunt",
+            "display_name": "",
+            "team": "T309PAMP0",
+            "name": "aaron",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "all5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks cool tho"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "abdb0753-0a2e-4fca-83c3-96052b18ed45",
+        "type": "message",
+        "text": "Looks pretty nice, I miss the leaves changing, good beer drinking weather when that happens.  We only have a high of 70 degrees down here, so I feel your pain.",
+        "user": "UC1MBG9SL",
+        "ts": "1604073039.077500",
+        "team": "T309PAMP0",
+        "user_team": "T309PAMP0",
+        "source_team": "T309PAMP0",
+        "user_profile": {
+            "avatar_hash": "890703330c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/820114216244_890703330c08f0ba8e54_72.jpg",
+            "first_name": "Kevin",
+            "real_name": "Kevin Keating",
+            "display_name": "Kevin Keating",
+            "team": "T309PAMP0",
+            "name": "kevin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sYr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Looks pretty nice, I miss the leaves changing, good beer drinking weather when that happens.  We only have a high of 70 degrees down here, so I feel your pain."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "334ca8da-71f2-49b9-a0d4-e9de94a7c6f4",
+        "type": "message",
+        "text": "<!here> Team, please finalize hours in Accelo by COB, today, 30 October - this only pertains to our monthly clients. If you are working Project KRAKEN, we are invoicing differently, so keep updating KRAKEN hours on a daily basis. Also, please send invoices to me and Peggy by 2 November.  Thanks for making this process run smoothly, everyone has been doing a great job inputting their hours and submitting invoices. Kevin",
+        "user": "UC1MBG9SL",
+        "ts": "1604073493.082000",
+        "team": "T309PAMP0",
+        "user_team": "T309PAMP0",
+        "source_team": "T309PAMP0",
+        "user_profile": {
+            "avatar_hash": "890703330c08",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-11-04\/820114216244_890703330c08f0ba8e54_72.jpg",
+            "first_name": "Kevin",
+            "real_name": "Kevin Keating",
+            "display_name": "Kevin Keating",
+            "team": "T309PAMP0",
+            "name": "kevin",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tRX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Team, please finalize hours in Accelo by COB, today, 30 October - this only pertains to our monthly clients. If you are working Project KRAKEN, we are invoicing differently, so keep updating KRAKEN hours on a daily basis. Also, please send invoices to me and Peggy by 2 November.  Thanks for making this process run smoothly, everyone has been doing a great job inputting their hours and submitting invoices. Kevin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
